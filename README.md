@@ -1,22 +1,22 @@
-# 🌟 PureGleam | Premium Post-Renovation Cleaning Landing Page
+# 🌟 PureGleam | Премиум клининг после ремонта
 
-A modern, responsive, and conversion-optimized landing page designed for a premium cleaning service company.
+Современный, адаптивный и оптимизированный для конверсии лендинг, созданный для клининговой компании премиум-класса.
 
-## 🚀 Features
-- **Modern UI/UX:** Clean aesthetics, glassmorphism effects, and CSS variables for theming.
-- **Fully Responsive:** Adapts perfectly to mobile, tablet, and desktop screens.
-- **Performance Optimized:** Uses native JavaScript (no heavy libraries like jQuery) and minimal assets.
-- **Conversion Focused:** Sticky header, smooth scrolling, and an interactive lead generation form with state management.
+## 🚀 Особенности
+- **Современный UI/UX:** Чистая эстетика, эффекты глассморфизма и CSS-переменные для стилизации.
+- **Полная адаптивность:** Идеально подстраивается под экраны мобильных устройств, планшетов и ПК.
+- **Оптимизация производительности:** Используется нативный JavaScript (без тяжелых библиотек вроде jQuery) и минимальное количество ресурсов.
+- **Фокус на конверсии:** Закрепленное меню, плавная прокрутка и интерактивная форма для заявок.
 
-## 🛠️ Tech Stack
-- **HTML5** (Semantic structure)
-- **CSS3** (BEM-like methodology, Flexbox, CSS Grid, Custom Properties)
-- **Vanilla JavaScript** (ES6+, DOM manipulation, Event handling)
+## 🛠️ Технологический стек
+- **HTML5** (Семантическая структура)
+- **CSS3** (БЭМ-подобная методология, Flexbox, CSS Grid, Custom Properties)
+- **Vanilla JavaScript** (ES6+, работа с DOM, обработка событий)
 - **Lucide Icons**
 
-## 💻 Installation & Usage
-This is a static website. No complex build tools are required.
-1. Clone the repository: `git clone https://github.com/yourusername/puregleam-landing-page.git`
-2. Open `index.html` in any modern web browser.
+## 💻 Установка и использование
+Это статический веб-сайт. Сложные инструменты сборки не требуются.
+1. Склонируйте репозиторий: `git clone https://github.com/m1sstak3/premium-cleaning-landing.git`
+2. Откройте файл `index.html` в любом современном веб-браузере.
 
-> **Note:** The form submission is simulated via JavaScript for demonstration purposes and does not send emails in this portfolio version.
+> **Примечание:** Отправка формы симулируется с помощью JavaScript для демонстрации и не отправляет реальные письма в этой версии для портфолио.
