@@ -51,7 +51,7 @@
 
 1. Склонируйте репозиторий на свой компьютер:
 ```bash
-git clone [https://github.com/m1sstak3/premium-cleaning-landing.git](https://github.com/m1sstak3/premium-cleaning-landing.git)
+git clone https://github.com/m1sstak3/premium-cleaning-landing.git
 ```
 2. Откройте файл `index.html` в любом современном веб-браузере.
 
